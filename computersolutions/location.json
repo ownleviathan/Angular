@@ -1,0 +1,28 @@
+[
+{
+  "id": 1,
+  "name": "Lynn Location",
+  "street_address": "555 addres ave",
+  "city": "Lynn",
+  "state": "MA",
+  "zip": "09432",
+  "phone": "789-7898-789"
+}, {
+  "id": 2,
+  "name": "Amesburry Location",
+  "street_address": "222 addres ave",
+  "city": "Amesburry",
+  "state": "MA",
+  "zip": "09432",
+  "phone": "789-7832-789"
+}, {
+  "id": 3,
+  "name": "Boston Location",
+  "street_address": "333 addres ave",
+  "city": "Bostos",
+  "state": "MA",
+  "zip": "09332",
+  "phone": "444-7898-789"
+
+}
+]
